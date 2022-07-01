@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/use-effects-session/static/css/main.036fde87.css",
+    "main.js": "/use-effects-session/static/js/main.c67b0123.js",
+    "static/js/787.90f97085.chunk.js": "/use-effects-session/static/js/787.90f97085.chunk.js",
+    "index.html": "/use-effects-session/index.html",
+    "main.036fde87.css.map": "/use-effects-session/static/css/main.036fde87.css.map",
+    "main.c67b0123.js.map": "/use-effects-session/static/js/main.c67b0123.js.map",
+    "787.90f97085.chunk.js.map": "/use-effects-session/static/js/787.90f97085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036fde87.css",
+    "static/js/main.c67b0123.js"
+  ]
+}
