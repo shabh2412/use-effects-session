@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-function AfterRenderAlways () {
+function AfterRender () {
   const [count, setCount] = useState(0);
   // if you don't give an array
   // it will get called after each render
@@ -21,4 +21,4 @@ function AfterRenderAlways () {
   )
 }
 
-export default AfterRenderAlways;
+export default AfterRender;
