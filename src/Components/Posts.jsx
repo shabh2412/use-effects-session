@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import AfterRenderAlways from "./useEffectsExamples/AfterRender";
+// import AfterRenderAlways from "./useEffectsExamples/AfterRender";
 
 function Posts () {
   const [data, setData] = useState([]);
